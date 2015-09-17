@@ -1,0 +1,5 @@
+.bundle/
+vendor/
+/.milkode/db
+/.milkode/milkode.yaml
+/.milkode/packages
